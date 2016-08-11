@@ -1,14 +1,26 @@
-layout_spectrum: 0.2061404
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3878446
 color:
-  saturation: 0.1390978
+  saturation: 0.5902256
   brandStrength: 0.8850275
   lightness: 0.127193
-  rhythmicContrast: 0.8214957
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-typography_spectrum: 0.3878446
+  rhythmicContrast: 0.8214957
+layout_spectrum: 0.2061404
 name: Photos and Other Interesting Things
