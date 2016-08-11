@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.3878446
 color:
-  saturation: 0.5902256
+  saturation: 1
   brandStrength: 0.8850275
-  lightness: 0.127193
+  lightness: 0.8358396
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  rhythmicContrast: 0.8214957
+  rhythmicContrast: 1
+typography_spectrum: 0.3878446
 layout_spectrum: 0.2061404
 name: Photos and Other Interesting Things
